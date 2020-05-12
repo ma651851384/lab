@@ -138,6 +138,8 @@ Configure web server
 
 .. include:: includes/web-backend.rst
 
+You need to use ``/`` or ``domain.example/`` in the domain part since subfolders are not allowed in cryptpad.
+
 Setup daemon
 ------------
 
